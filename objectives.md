@@ -1,6 +1,6 @@
 # WDI 34  Learning Objectives
 
-This document collects the course's weekly objectives. If you'd like to have persistent check marks, feel free to fork this [gist version](https://gist.github.com/bgveenstra/200a6112d045a7251cb98bc89dd54314).
+This document collects the course's weekly objectives. If you'd like to have persistent check marks, feel free to fork this [gist version of the WDI 34 objectives](https://gist.github.com/bgveenstra/200a6112d045a7251cb98bc89dd54314).
 
 Developers will be able to...
 
