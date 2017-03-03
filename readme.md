@@ -99,7 +99,7 @@ Discuss with your teams:
 
 1. Schedule time to seek job postings.
 
-1. Schedule time to complete job applications.
+1. Schedule time to complete two job applications.
 
 
 
