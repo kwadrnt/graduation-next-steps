@@ -76,7 +76,7 @@ The twelve weeks of WDI on campus are rigidly structured, with guidance from tea
 
 Discuss with your teams:
 
-1. What are your next steps on project 2? Vagabond/Wayfarer? Project 1?  
+1. What are your next steps on project 2? Wayfarer? Project 1?  
 
 2. Does your group want to meet again and/or continue working on the project together?  Some groups will decide to take the project in different directions or allow for less scheduling by working individually on forks.
 
