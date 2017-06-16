@@ -45,7 +45,7 @@ The twelve weeks of WDI on campus are rigidly structured, with guidance from tea
 
 1. What are your remaining areas for improvement, and/or what skills you think you will need to practice in order to maintain them?  
 
-2. Write down a list of 2-4 technologies you will review. You can refer to the [list of objectives](objectives.md). These should be limited topics you can study as you prepare for interviews.
+2. Write down a list of 2-4 technologies you will review. These should be limited topics you can study as you prepare for interviews.
 
 3. List 1-3 "soft" skills that you will work to develop further.
 
